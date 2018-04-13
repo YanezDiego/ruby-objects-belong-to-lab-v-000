@@ -5,5 +5,8 @@ attr_accessor :title, :artist
       @title
     end
 
+    def artist
+      @artist
+    end
 
   end
